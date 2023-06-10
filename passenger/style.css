@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+}
+button {
+    border: none;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    border-radius: 5px;
+
+}
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+
+}
+
+#increment-btn {
+    background-color:darkred;
+}
+#save-btn {
+    background-color: blueviolet;
+
+}
